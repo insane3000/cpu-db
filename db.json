@@ -1,5 +1,5 @@
 {
-  "Cpu": [
+  "cpu": [
     {
       "id": 1,
       "name": "mobo",
@@ -9,10 +9,10 @@
       "price": "289",
       "energy": 100,
       "description": "Una bonita tarjeta grafica",
-      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
-      "large": "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71P3chRzgNL._AC_SL1500_.jpg",
+      "large": "https://images-na.ssl-images-amazon.com/images/I/71P3chRzgNL._AC_SL1500_.jpg",
       "images": [
-        "https://asset.msi.com/resize/image/global/product/product_1609386218b5c80b88e9b7a95ea9e824ee756f0249.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71P3chRzgNL._AC_SL1500_.jpg",
         "https://asset.msi.com/resize/image/global/product/product_0_20200429154712_5ea9310011340.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
         "https://asset.msi.com/resize/image/global/product/product_0_20200429154705_5ea930f96cd41.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
         "https://asset.msi.com/resize/image/global/product/product_3_20200429154714_5ea93102e7bea.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
