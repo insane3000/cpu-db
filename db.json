@@ -1,18 +1,64 @@
 {
-  "cpu": [
+  "cpus": [
     {
       "id": 1,
       "name": "cpu",
       "brand": "intel",
       "series": "",
-      "model": "Core i7-10700K",
-      "price": "344.99",
+      "model": "Core I3-10100",
+      "price": 100,
       "energy": 75,
-      "description": "Procesador Intel Core i7-10700K para equipos de sobremesa de 8 núcleos de hasta 5,1 GHz LGA1200 (chipset Intel serie 400) 125 W (BX8070110700K)",
-      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71P3chRzgNL._AC_SL1500_.jpg",
-      "large": "https://images-na.ssl-images-amazon.com/images/I/71P3chRzgNL._AC_SL1500_.jpg",
+      "description": "",
+      "thumbnail": "https://computerage.lk/wp-content/uploads/2020/12/INTEL-I3-10100F-LGA1200-PROCESSOR.png",
+      "large": "",
       "images": [
-        "https://images-na.ssl-images-amazon.com/images/I/71P3chRzgNL._AC_SL1500_.jpg"
+        "https://computerage.lk/wp-content/uploads/2020/12/INTEL-I3-10100F-LGA1200-PROCESSOR.png"
+      ],
+      "especification": {
+        "plataform": "intel",
+        "chipset": "",
+        "socket": "",
+        "ddr": "4",
+        "frecuencyMax": "",
+        "wifi": ""
+      }
+    },
+    {
+      "id": 2,
+      "name": "cpu",
+      "brand": "intel",
+      "series": "",
+      "model": "Core I5-10400 LGA1200",
+      "price": 225,
+      "energy": 75,
+      "description": "",
+      "thumbnail": "https://computerage.lk/wp-content/uploads/2020/12/INTEL-I5-10400-LGA1200-PROCESSOR.png",
+      "large": "",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2020/12/INTEL-I5-10400-LGA1200-PROCESSOR.png"
+      ],
+      "especification": {
+        "plataform": "intel",
+        "chipset": "",
+        "socket": "",
+        "ddr": "4",
+        "frecuencyMax": "",
+        "wifi": ""
+      }
+    },
+    {
+      "id": 3,
+      "name": "cpu",
+      "brand": "intel",
+      "series": "",
+      "model": "CORE I7 10700F",
+      "price": 370,
+      "energy": 100,
+      "description": "",
+      "thumbnail": "https://computerage.lk/wp-content/uploads/2020/12/INTEL-CORE-I7-10700-PROCESSOR.png",
+      "large": "",
+      "images": [
+        "https://computerage.lk/wp-content/uploads/2020/12/INTEL-CORE-I7-10700-PROCESSOR.png"
       ],
       "especification": {
         "plataform": "intel",
